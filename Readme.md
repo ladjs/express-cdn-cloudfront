@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/niftylettuce/express-cdn-cloudfront.png)](http://travis-ci.org/niftylettuce/express-cdn-cloudfront)
 
 # express-cdn-cloudfront <sup>0.0.1</sup>
 
